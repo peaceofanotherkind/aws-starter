@@ -4,10 +4,12 @@ Parameters:
   Name:
     Type: String
     Description: Name of the app
+    Default: Amplify-NGINX
 
   Repository:
     Type: String
     Description: GitHub Repository URL
+    Default: https://github.com/peaceofanotherkind/nginx
 
   Branch:
     Type: String
