@@ -4,7 +4,6 @@ Parameters:
   Name:
     Type: String
     Description: Name of the app
-    Default: Amplify-NGINX
 
   Repository:
     Type: String
