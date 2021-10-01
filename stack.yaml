@@ -8,7 +8,7 @@ Parameters:
   Repository:
     Type: String
     Description: GitHub Repository URL
-    Default: https://github.com/peaceofanotherkind/nginx
+    Default: https://github.com/peaceofanotherkind/ec2-NGINX
 
   Branch:
     Type: String
